@@ -1,0 +1,14 @@
+body {
+    background-color: #90EE90;
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+    font-size: 115%;
+    margin: 50px;
+  }
+  
+  #chatbox {
+    padding: 20px;
+    border: 2px solid grey;
+    border-radius: 6px;
+  }
+  
